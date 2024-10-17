@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yhatip
-- 👀 I’m interested in Python, R, SQL
-- 🌱 I’m currently learning Python, R, SQL
+- 👀 I’m interested in HTML, CSS, Java Script
+- 🌱 I’m currently learning HTML, CSS, Java Script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
